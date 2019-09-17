@@ -13,3 +13,5 @@ uHAL aims to achieve a couple key goals:
 * Standard API across different devices and device manufactures
 * Great software standards that can stand up to a production environment.
 
+## How to use.
+
