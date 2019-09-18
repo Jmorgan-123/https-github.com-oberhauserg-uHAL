@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "uhal.h": "c",
+        "uhalusart.h": "c",
+        "uhaltestcommon.h": "c"
+    }
+}
