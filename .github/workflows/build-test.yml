@@ -13,5 +13,6 @@ jobs:
       run: |
         cd tests
         ls
+        apt-get install build-essential
     - name: Building
       run: make
