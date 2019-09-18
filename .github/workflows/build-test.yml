@@ -15,4 +15,6 @@ jobs:
         ls
         sudo apt-get install build-essential
     - name: Building
-      run: make
+      run: |
+        cd tests
+        make
