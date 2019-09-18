@@ -1,4 +1,5 @@
 [![Actions Status](https://github.com/oberhauserg/uHAL/workflows/Build/badge.svg)](https://github.com/oberhauserg/uHAL/actions)
+[![Actions Status](https://github.com/oberhauserg/uHAL/workflows/CI/badge.svg)](https://github.com/oberhauserg/uHAL/actions)
 # uHAL
 uHAL (micro Hardware Abstraction Library), is a lightweight HAL library that is designed to be easily ported to any hardware.
 
