@@ -12,5 +12,6 @@ jobs:
     - name: Cleaning
       run: |
         cd tests
+        ls
     - name: Building
       run: make
