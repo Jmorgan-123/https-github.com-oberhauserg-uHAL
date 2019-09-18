@@ -1,0 +1,4 @@
+echo "Building tests..."
+
+make
+

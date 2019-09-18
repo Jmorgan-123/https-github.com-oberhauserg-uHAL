@@ -1,0 +1,1 @@
+#define uHAL_USECONFIG_TEST
